@@ -22,4 +22,4 @@ export type SearchFieldProps = {
   onSearch: (query: string) => void;
 };
 
-export type SearchFieldType =React.FC<SearchFieldProps> 
+export type SearchFieldType =React.FC<SearchFieldProps>

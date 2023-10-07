@@ -36,4 +36,3 @@ export const styles = StyleSheet.create({
       borderColor: "#5189EC",
     },
   });
-  
