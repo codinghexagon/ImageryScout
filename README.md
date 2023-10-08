@@ -21,8 +21,8 @@ If an exact match isn't in the cards, don't worry! Imagery Scout will fetch the 
 
 Time Complexity: O(n+K\*m)
 
-# 🎥 Demo
-
+# 🎥 [Demo](https://vimeo.com/872218235?share=copy)
+  
   <img src="demo.gif" alt="Demo GIF" width="450" height="450"/>
 
 # 🔧 Local Setup Guidelines
